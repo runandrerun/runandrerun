@@ -11,4 +11,4 @@ I'm a former Senior Network Engineer (6+ years of experience) turned Software En
 - 📫 How to reach me: the.asantiagojr@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've fostered several dogs successfully, and I've completed several marathons and have competed in multiple powerlifting competitions
-
+##<img src="https://github-readme-stats.vercel.app/api/?username=runandrerun" alt="Github stats"/>
